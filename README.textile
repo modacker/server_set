@@ -1,0 +1,2 @@
+h1. Server auto set
+服务器自动配置脚本
